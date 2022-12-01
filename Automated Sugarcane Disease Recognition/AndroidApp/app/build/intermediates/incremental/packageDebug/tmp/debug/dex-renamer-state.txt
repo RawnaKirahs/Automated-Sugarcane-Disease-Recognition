@@ -1,0 +1,4 @@
+#Tue Jan 11 13:38:28 IST 2022
+base.0=D\:\\COLLEGE\\FINAL_SEM_PROJECT\\Automated-Disease-Recognition-in-Sugarcane-master\\AndroidApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex

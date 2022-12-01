@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Jan 09 17:30:38 IST 2022
+0.base=D\:\\COLLEGE\\FINAL_SEM_PROJECT\\Automated-Disease-Recognition-in-Sugarcane-master\\AndroidApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX
